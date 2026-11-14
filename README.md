@@ -2,7 +2,7 @@
 
 Arduino code for **Rhythm Table**, an interactive project for the **Soft Interaction Lab** at the College of Performance, Visualization & Fine Arts, Texas A&M University.
 
-The Soft Interaction Lab is a soft robotics lab that combines electronics, programming and interactive ideas to build experiences people of all ages can explore, from kids to adults.
+At the Soft Interaction Lab, we explore soft robotics by combining electronics, programming and interactive ideas to build experiences people of all ages can explore, from kids to adults.
 
 ## Contents
 
