@@ -1,5 +1,4 @@
 /*
-  MusicMakerDemo.ino
   Basic SD card music player for the Adafruit "Music Maker" MP3 Shield (#1790)
   on an Arduino Uno R3, listening through the 3.5 mm headphone jack.
 
