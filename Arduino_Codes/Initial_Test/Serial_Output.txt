@@ -1,0 +1,43 @@
+Adafruit Music Maker demo
+VS1053 found.
+SD card OK. Files on card:
+  SPOTLI~1/
+    STORE-V2/
+      B19199~2/
+        {File names on SD card will be listed here}
+    VOLUME~4.PLI  (4557 bytes)
+  FSEVEN~1/
+    FSEVEN~2  (36 bytes)
+    000000~2  (292 bytes)
+    000000~3  (72 bytes)
+  PIANO.MP3  (3049567 bytes)
+  _PIAN~2.MP3  (4096 bytes)
+  _TRACK~4.MP3  (4096 bytes)
+  TRACK01.MP3  (4941041 bytes)
+Volume: -25.0 dB  [###############.....]
+Playlist (2 tracks):
+   PIANO.MP3
+   TRACK01.MP3
+Commands: n=next p=pause s=stop +=louder -=quieter v=volume l=list
+Now playing: PIANO.MP3
+Volume: -27.5 dB  [##############......]
+Volume: -30.0 dB  [##############......]
+Volume: -32.5 dB  [#############.......]
+Volume: -35.0 dB  [#############.......]
+Volume: -37.5 dB  [############........]
+Volume: -40.0 dB  [############........]
+Volume: -42.5 dB  [###########.........]
+Volume: -45.0 dB  [###########.........]
+Volume: -47.5 dB  [##########..........]
+Volume: -50.0 dB  [##########..........]
+Volume: -47.5 dB  [##########..........]
+Volume: -45.0 dB  [###########.........]
+Volume: -42.5 dB  [###########.........]
+Volume: -40.0 dB  [############........]
+Volume: -37.5 dB  [############........]
+Volume: -35.0 dB  [#############.......]
+Volume: -32.5 dB  [#############.......]
+Volume: -30.0 dB  [##############......]
+Volume: -27.5 dB  [##############......]
+Volume: -25.0 dB  [###############.....]
+Now playing: TRACK01.MP3
